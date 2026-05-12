@@ -47,7 +47,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620704",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997003",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -61,7 +61,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620704#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997003#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -74,7 +74,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620704#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997003#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName"
 		}
@@ -127,7 +127,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620717",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997018",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -141,7 +141,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620717#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997018#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -154,7 +154,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620717#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997018#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName[2]"
 		}
@@ -207,7 +207,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620726",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997025",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -221,7 +221,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620726#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997025#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -234,7 +234,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620726#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997025#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName"
 		}
@@ -287,7 +287,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620767",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997033",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -301,7 +301,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620767#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997033#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -314,7 +314,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620767#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997033#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName[2]"
 		}
@@ -367,7 +367,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620776",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997040",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -381,7 +381,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620776#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997040#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -394,7 +394,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620776#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997040#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName[3]"
 		}
@@ -447,7 +447,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620783",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997047",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -461,7 +461,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620783#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997047#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -474,7 +474,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620783#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997047#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName[4]"
 		}
@@ -527,7 +527,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620790",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997054",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -541,7 +541,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620790#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997054#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -554,7 +554,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620790#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997054#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName[5]"
 		}
@@ -607,7 +607,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620797",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997061",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -621,7 +621,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620797#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997061#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -634,7 +634,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620797#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997061#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName[6]"
 		}
@@ -687,7 +687,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620804",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997068",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -701,7 +701,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620804#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997068#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -714,7 +714,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620804#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997068#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName[7]"
 		}
@@ -767,7 +767,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620811",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997075",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -781,7 +781,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620811#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997075#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -794,7 +794,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620811#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997075#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName[8]"
 		}
@@ -847,7 +847,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620818",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997082",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -861,7 +861,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620818#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997082#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -874,7 +874,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620818#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997082#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName[9]"
 		}
@@ -927,7 +927,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620825",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997089",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -941,7 +941,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620825#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997089#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -954,7 +954,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620825#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997089#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName[10]"
 		}
@@ -1007,7 +1007,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620833",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997096",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1021,7 +1021,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620833#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997096#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1034,7 +1034,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620833#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997096#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName[11]"
 		}
@@ -1087,7 +1087,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620840",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997103",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1101,7 +1101,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620840#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997103#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1114,7 +1114,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620840#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997103#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName[12]"
 		}
@@ -1167,7 +1167,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620846",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997110",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1181,7 +1181,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620846#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997110#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1194,7 +1194,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620846#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997110#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName[13]"
 		}
@@ -1247,7 +1247,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620857",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997120",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1261,7 +1261,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620857#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997120#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1274,7 +1274,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620857#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997120#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName/placeName"
 		}
@@ -1327,7 +1327,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620864",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997127",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1341,7 +1341,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620864#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997127#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1354,7 +1354,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620864#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997127#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/placeName"
 		}
@@ -1407,7 +1407,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620872",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997136",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1421,7 +1421,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620872#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997136#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1434,7 +1434,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620872#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997136#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/placeName[2]"
 		}
@@ -1487,7 +1487,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620881",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997145",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1501,7 +1501,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620881#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997145#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1514,7 +1514,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620881#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997145#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/date"
 		}
@@ -1567,7 +1567,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620891",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997155",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1581,7 +1581,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620891#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997155#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1594,7 +1594,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620891#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997155#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/dateline/note"
 		}
@@ -1647,7 +1647,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620898",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997163",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1661,7 +1661,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620898#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997163#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1674,7 +1674,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620898#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997163#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/note"
 		}
@@ -1727,7 +1727,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620905",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997170",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1741,7 +1741,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620905#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997170#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1754,7 +1754,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620905#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997170#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName/note"
 		}
@@ -1807,7 +1807,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620912",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997178",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1821,7 +1821,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620912#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997178#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1834,7 +1834,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620912#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997178#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/note[2]"
 		}
@@ -1887,7 +1887,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620919",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997186",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1901,7 +1901,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620919#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997186#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1914,7 +1914,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620919#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997186#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/note[3]"
 		}
@@ -1967,7 +1967,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620927",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997193",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -1981,7 +1981,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620927#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997193#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -1994,7 +1994,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620927#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997193#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/placeName[2]/note"
 		}
@@ -2047,7 +2047,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620934",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997200",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -2061,7 +2061,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620934#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997200#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -2074,7 +2074,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620934#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997200#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/note[4]"
 		}
@@ -2127,7 +2127,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620940",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997207",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -2141,7 +2141,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620940#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997207#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -2154,7 +2154,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620940#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997207#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/note[5]"
 		}
@@ -2207,7 +2207,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620947",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997214",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -2221,7 +2221,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620947#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997214#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -2234,7 +2234,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620947#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997214#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/note[6]"
 		}
@@ -2287,7 +2287,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620954",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997221",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -2301,7 +2301,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620954#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997221#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -2314,7 +2314,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620954#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997221#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/note[7]"
 		}
@@ -2367,7 +2367,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620965",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997228",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -2381,7 +2381,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620965#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997228#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -2394,7 +2394,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620965#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997228#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/note[8]"
 		}
@@ -2447,7 +2447,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620973",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997235",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -2461,7 +2461,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620973#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997235#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -2474,7 +2474,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620973#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997235#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/date/note"
 		}
@@ -2527,7 +2527,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620980",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997243",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -2541,7 +2541,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620980#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997243#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -2554,7 +2554,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620980#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997243#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/date/note[2]"
 		}
@@ -2607,7 +2607,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620987",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997250",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -2621,7 +2621,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620987#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997250#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -2634,7 +2634,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620987#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997250#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/persName/note"
 		}
@@ -2687,7 +2687,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620994",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997258",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -2701,7 +2701,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620994#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997258#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -2714,7 +2714,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015620994#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997258#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/note"
 		}
@@ -2767,7 +2767,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015621018",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997265",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -2781,7 +2781,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015621018#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997265#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -2794,7 +2794,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015621018#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997265#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/note[2]"
 		}
@@ -2847,7 +2847,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015621027",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997272",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -2861,7 +2861,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015621027#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997272#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -2874,7 +2874,7 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/35.xml?person_annotation_20260512210015621027#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/035.xml?person_annotation_20260512210908997272#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/note[3]"
 		}
