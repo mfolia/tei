@@ -47,7 +47,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512210908974458",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512220012673498",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -61,7 +61,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512210908974458#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512220012673498#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -74,14 +74,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512210908974458#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512220012673498#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:NaturalPerson", "@id": "http://viaf.org/viaf/12345",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -127,7 +126,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512210908974470",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512220012673513",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -141,7 +140,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512210908974470#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512220012673513#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -154,14 +153,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512210908974470#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512220012673513#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName[2]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:NaturalPerson", "@id": "http://viaf.org/viaf/12345",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -207,7 +205,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512210908974478",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512220012673522",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -221,7 +219,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512210908974478#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512220012673522#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -234,14 +232,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512210908974478#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512220012673522#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:NaturalPerson", "@id": "http://viaf.org/viaf/12345",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -287,7 +284,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512210908974489",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512220012673535",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -301,7 +298,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512210908974489#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512220012673535#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -314,14 +311,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512210908974489#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/020.xml?person_annotation_20260512220012673535#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/note"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:Note",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:Note",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -344,7 +340,7 @@
                     <p> </p>
                     <p>Guillem IV, comte de Tolosa, presta jurament de fidelitat al seu germanastre Ramon Berenguer, fill dels comtes de Barcelona Ramon Berenguer I i Almodis, com a comte de Carcassona i Rasès.</p>
                     <p>========================================================================</p>
-                    <div><p><note n="a">B avantposa la rúbrica <hi rend="italic">Sacramentale Guilelmi Tholosani quod fecit Raimundo, comiti Barcinonensi</hi>.</note>Iuro ego <persName xml:id="pers_1" key="Guillem IV de Tolosa" role="jurador">Guilelmus, Tholosanus comes</persName>, filius qui sum <persName xml:id="pers_2" key="Almodis de la Marca" role="mare">Adalmodis comitisse</persName>, quod de ista hora in antea non decepero te, <persName xml:id="pers_3" key="Ramon Berenguer II Cap d’Estopes" role="beneficiari">Raimundum Berengarii, filium Adalmodis comitisse, Carcassonensem comitem</persName>, fratrem meum, de tua vita neque de tuis membris qui in corpore tuo [se] tenent neque de tuas civitates neque de tuos comitatos neque de tuos episcopatos neque de omnem tuam honorem quem hodie habes adquisitam aut in antea cum meo consilio adquisieris. Hec omnia supradicta ego, iam dictus Guilelmus, <hi rend="italic">no la·t tolré ne te’n tolré, ne te’n decebré ne te’n enganaré</hi>, nec ego, predictus Guilelmus, nec homo nec homines, femina vel feminas, qui tibi, Raimundo suprascripto, tollere voluerit aut tolerit ista omnia suprascripta, aut de ista omnia adiutor<hi rend="italic"> en seré</hi> ego, prescriptus Guilelmus, ad te, Raimundum prescriptum, sine tuo engan, contra cunctos homines vel feminas qui tibi tollere voluerint aut tulerint ista omnia suprascripta aut de omnia suprascripta, <hi rend="italic">de qui tu me’n comonràs</hi> per te ipsum aut per tuum nuncium vel nuncios. Et <hi rend="italic">comunir no me’n devedaré</hi> nec de ipso adiutorio <hi rend="italic">no·t engannaré</hi> per quantas vices tu <hi rend="italic">me’n commonueris</hi> per te ipsum vel per tuum nuncium vel nuncios, exceptis illis meis honoribus unde possum tibi facere directum, et faciam si in te non remanet. Sicut suprascriptum est, <hi rend="italic">sí o tenré et o atendré</hi> ego, iam dictus Guilelmus tibi, predicto fratri meo, sine enganno et malo ingenio et fraude et ulla tua decepcione, me sciente, per Deum et hec sancta, nisi quantum tu me absolveras tuo gradiente animo sine forcia.</p></div>
+                    <div><p><note n="a">B avantposa la rúbrica <hi rend="italic">Sacramentale Guilelmi Tholosani quod fecit Raimundo, comiti Barcinonensi</hi>.</note>Iuro ego <persName xml:id="pers_1" ref="http://viaf.org/viaf/12345" key="Guillem IV de Tolosa" role="jurador">Guilelmus, Tholosanus comes</persName>, filius qui sum <persName xml:id="pers_2" ref="http://viaf.org/viaf/12345" key="Almodis de la Marca" role="mare">Adalmodis comitisse</persName>, quod de ista hora in antea non decepero te, <persName xml:id="pers_3" ref="http://viaf.org/viaf/12345" key="Ramon Berenguer II Cap d’Estopes" role="beneficiari">Raimundum Berengarii, filium Adalmodis comitisse, Carcassonensem comitem</persName>, fratrem meum, de tua vita neque de tuis membris qui in corpore tuo [se] tenent neque de tuas civitates neque de tuos comitatos neque de tuos episcopatos neque de omnem tuam honorem quem hodie habes adquisitam aut in antea cum meo consilio adquisieris. Hec omnia supradicta ego, iam dictus Guilelmus, <hi rend="italic">no la·t tolré ne te’n tolré, ne te’n decebré ne te’n enganaré</hi>, nec ego, predictus Guilelmus, nec homo nec homines, femina vel feminas, qui tibi, Raimundo suprascripto, tollere voluerit aut tolerit ista omnia suprascripta, aut de ista omnia adiutor<hi rend="italic"> en seré</hi> ego, prescriptus Guilelmus, ad te, Raimundum prescriptum, sine tuo engan, contra cunctos homines vel feminas qui tibi tollere voluerint aut tulerint ista omnia suprascripta aut de omnia suprascripta, <hi rend="italic">de qui tu me’n comonràs</hi> per te ipsum aut per tuum nuncium vel nuncios. Et <hi rend="italic">comunir no me’n devedaré</hi> nec de ipso adiutorio <hi rend="italic">no·t engannaré</hi> per quantas vices tu <hi rend="italic">me’n commonueris</hi> per te ipsum vel per tuum nuncium vel nuncios, exceptis illis meis honoribus unde possum tibi facere directum, et faciam si in te non remanet. Sicut suprascriptum est, <hi rend="italic">sí o tenré et o atendré</hi> ego, iam dictus Guilelmus tibi, predicto fratri meo, sine enganno et malo ingenio et fraude et ulla tua decepcione, me sciente, per Deum et hec sancta, nisi quantum tu me absolveras tuo gradiente animo sine forcia.</p></div>
                 </div>
             </body>
     </text>

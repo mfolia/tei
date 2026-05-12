@@ -47,7 +47,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007424",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713827",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -61,7 +61,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007424#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713827#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -74,14 +74,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007424#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713827#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:NaturalPerson", "@id": "http://viaf.org/viaf/12345",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -127,7 +126,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007446",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713841",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -141,7 +140,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007446#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713841#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -154,14 +153,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007446#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713841#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName[2]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:NaturalPerson", "@id": "http://viaf.org/viaf/12345",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -207,7 +205,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007454",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713849",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -221,7 +219,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007454#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713849#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -234,14 +232,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007454#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713849#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName[3]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:NaturalPerson", "@id": "http://viaf.org/viaf/12345",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -287,7 +284,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007462",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713856",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -301,7 +298,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007462#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713856#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -314,14 +311,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007462#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713856#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName[4]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:NaturalPerson", "@id": "http://viaf.org/viaf/12345",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -367,7 +363,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007469",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713864",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -381,7 +377,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007469#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713864#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -394,14 +390,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007469#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713864#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:NaturalPerson", "@id": "http://viaf.org/viaf/12345",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -447,7 +442,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007476",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713871",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -461,7 +456,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007476#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713871#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -474,14 +469,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007476#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713871#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName[6]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:NaturalPerson", "@id": "http://viaf.org/viaf/12345",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -527,7 +521,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007484",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713878",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -541,7 +535,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007484#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713878#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -554,14 +548,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007484#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713878#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:NaturalPerson", "@id": "http://viaf.org/viaf/12345",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -607,7 +600,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007491",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713885",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -621,7 +614,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007491#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713885#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -634,14 +627,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007491#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713885#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName[8]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:NaturalPerson", "@id": "http://viaf.org/viaf/12345",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -687,7 +679,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007498",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713892",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -701,7 +693,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007498#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713892#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -714,14 +706,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007498#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713892#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/persName[9]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:NaturalPerson", "@id": "http://viaf.org/viaf/12345",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -767,7 +758,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007509",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713902",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -781,7 +772,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007509#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713902#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -794,14 +785,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007509#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713902#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p[2]/date"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "xsd:date",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "xsd:date",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -847,7 +837,7 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007519",
+	"id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713913",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-10T19:52:46.177Z",
 	"dcterms:modified": "2026-05-10T19:52:46.177Z",
@@ -861,7 +851,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007519#Target",
+		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713913#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -874,14 +864,13 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512210909007519#Selector",
+			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/040.xml?person_annotation_20260512220012713913#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "/TEI/text/body/div/div/p/note"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:Note",
-		"@id": "http://viaf.org/viaf/12345",		
+		"@type": "cwrc:Note",				
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -904,7 +893,7 @@
                     <p> </p>
                     <p>En compliment del tractat de pau signat aquell mateix dia, el comte Alfons I de Tolosa jura fidelitat al comte Ramon Berenguer III de Barcelona i es compromet a defensar-lo per l’honor que té contra tothom, excepte contra Eimeric de Narbona, Guillem de Montpeller, Bernat d’Andusa i el comte de Forcalquer (Forcalquier).</p>
                     <p>========================================================================</p>
-                    <div><p><note n="a">B avantposa la rúbrica <hi rend="italic">Sequitur etiam alterum sacramentale quod fecit Ildefonsus, comes praedictus, venerabili Raimundo, comiti Barcinonensi ac principi Aragonensium</hi>.</note>Iuro ego <persName xml:id="ent1" key="Alfons Jordà" role="jurador">Illefonsus</persName>, filius <persName xml:id="ent2" key="Elvira">Alvire femine</persName>, tibi <persName xml:id="ent3" key="Ramon Berenguer III el Gran" role="beneficiari">Raimunde, Barchinonensium comiti et Provincie marchioni</persName>, filio <persName xml:id="ent4" key="Mafalda de Pulla i Calàbria">Maaltis femine</persName>, et uxori tue <persName xml:id="ent5" key="Dolça I de Provença" role="beneficiari">Dulcie comitisse</persName> quod de ista hora in antea fidelis ero vobis de vita vestra et de corporibus vestris et de membris vestris que corporibus vestris iuncta sunt et de omnibus honoribus vestris quos hodie habetis vel habere debetis vel in antea, cum consilio meo, adquisieritis, vos vel homines per vos, que non vobis illos honores tollam nec tollere faciam, partem nec totum. Et si quis vobis aliquid de predicto honore inde tulerit vel tollere voluerit, ero vobis inde fidelis adiutor et defensor per fidem, sine <hi rend="italic">engan</hi>, contra cunctos homines vel feminas, per quantas vices me inde monueritis vel moniri feceritis, excepto <persName xml:id="ent6" key="Eimeric II de Narbona">Aimerico de Narbona</persName> et <persName xml:id="ent7" key="Guillem VI de Montpeller">Guilelmo de Monte Pessulano</persName> et <persName xml:id="ent8" key="Bernat d’Andusa">Bernardo de Andusa</persName> et <persName xml:id="ent9" key="Forcalquer, comte de">comes Furno Chalcherii</persName> et illis meis hominibus qui directum vobis facere voluerint. Sicut superius scriptum est, sic faciam et attendam vobis ego Illefonsus vobis suprascriptis comiti et comitisse per Deum et hec sancta.</p><p>Actum est hoc <date xml:id="ent10">XVII kalendas octobris, anno Dominice incarnationis CXXV post millesimum</date>.</p><p>Sig+num Illefonsus comes.</p></div>
+                    <div><p><note n="a">B avantposa la rúbrica <hi rend="italic">Sequitur etiam alterum sacramentale quod fecit Ildefonsus, comes praedictus, venerabili Raimundo, comiti Barcinonensi ac principi Aragonensium</hi>.</note>Iuro ego <persName xml:id="ent1" ref="http://viaf.org/viaf/12345" key="Alfons Jordà" role="jurador">Illefonsus</persName>, filius <persName xml:id="ent2" ref="http://viaf.org/viaf/12345" key="Elvira">Alvire femine</persName>, tibi <persName xml:id="ent3" ref="http://viaf.org/viaf/12345" key="Ramon Berenguer III el Gran" role="beneficiari">Raimunde, Barchinonensium comiti et Provincie marchioni</persName>, filio <persName xml:id="ent4" ref="http://viaf.org/viaf/12345" key="Mafalda de Pulla i Calàbria">Maaltis femine</persName>, et uxori tue <persName xml:id="ent5" ref="http://viaf.org/viaf/12345" key="Dolça I de Provença" role="beneficiari">Dulcie comitisse</persName> quod de ista hora in antea fidelis ero vobis de vita vestra et de corporibus vestris et de membris vestris que corporibus vestris iuncta sunt et de omnibus honoribus vestris quos hodie habetis vel habere debetis vel in antea, cum consilio meo, adquisieritis, vos vel homines per vos, que non vobis illos honores tollam nec tollere faciam, partem nec totum. Et si quis vobis aliquid de predicto honore inde tulerit vel tollere voluerit, ero vobis inde fidelis adiutor et defensor per fidem, sine <hi rend="italic">engan</hi>, contra cunctos homines vel feminas, per quantas vices me inde monueritis vel moniri feceritis, excepto <persName xml:id="ent6" ref="http://viaf.org/viaf/12345" key="Eimeric II de Narbona">Aimerico de Narbona</persName> et <persName xml:id="ent7" ref="http://viaf.org/viaf/12345" key="Guillem VI de Montpeller">Guilelmo de Monte Pessulano</persName> et <persName xml:id="ent8" ref="http://viaf.org/viaf/12345" key="Bernat d’Andusa">Bernardo de Andusa</persName> et <persName xml:id="ent9" ref="http://viaf.org/viaf/12345" key="Forcalquer, comte de">comes Furno Chalcherii</persName> et illis meis hominibus qui directum vobis facere voluerint. Sicut superius scriptum est, sic faciam et attendam vobis ego Illefonsus vobis suprascriptis comiti et comitisse per Deum et hec sancta.</p><p>Actum est hoc <date when="1111" xml:id="ent10">XVII kalendas octobris, anno Dominice incarnationis CXXV post millesimum</date>.</p><p>Sig+num Illefonsus comes.</p></div>
                 </div>
             </body>
     </text>
