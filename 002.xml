@@ -2032,84 +2032,6 @@
 	"oa:hasBody": {
 		"@type": "cwrc:Note",
 		"dc:format": "text/plain",
-		"rdf:value": ""
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "4.2.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/mfolia/tei/main/002.xml?note_annotation_20260510215246177",
-	"type": "oa:Annotation",
-	"dcterms:created": "2026-05-10T19:52:46.177Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/mfolia",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Marc Folia"
-	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mfolia/tei/main/002.xml?note_annotation_20260510215246177#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/002.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "4.2.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mfolia/tei/main/002.xml?note_annotation_20260510215246177#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p[2]/date/note[2]"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:Note",
-		"dc:format": "text/plain",
 		"rdf:value": "millesimo Marca."
 	},
 	"as:generator": {
@@ -2364,7 +2286,7 @@
                     <p> </p>
                     <p>Ramon Bernat i Ermengarda, vescomtes d’Albi, Nimes, Agde i Besiers, venen als comtes de Barcelona, Ramon Berenguer I i Almodis, el comtat i el vescomtat de Rasès amb els seus castells, castlanies i abadies pel preu de 1.000 unces d’or.</p>
                     <p>========================================================================</p>
-                    <div><p><note n="a">B avantposa la rúbrica <hi rend="italic">Instrumentum venditionis quam fecit Raimundus Bernardi vicecomes et Ermengardis vicecomitissa Raimundo, comiti Barcinonensi, super comitatu et vicecomitatu Redensi</hi>.</note>In nomine Domini. Ego <persName xml:id="ent1" ref="http://viaf.org/viaf/12345" key="Ramon Bernat Trencavell" role="venedor">Raimundus Bernardi vicecomes</persName> et <persName xml:id="ent2" ref="http://viaf.org/viaf/12345" key="Ermengarda de Carcassona" role="venedora">Ermengardis vicecomitissa</persName>, uxor eius, nos simul in unum, venditores sumus vobis, <persName xml:id="ent3" ref="http://viaf.org/viaf/12345" key="Ramon Berenguer I el Vell" role="comprador">domno Raimundo, Barchinonensi comiti</persName>, et <persName xml:id="ent4" ref="http://viaf.org/viaf/12345" key="Almodis de la Marca" role="compradora">domne Adalmodi comitisse</persName>. Per hanc scripturam nostre vendicionis vendimus vobis totum ipsum <placeName xml:id="ent5" ref="http://viaf.org/viaf/12345" key="Rasès, comtat de" type="comtat">comitatum de <hi rend="italic">Redes</hi></placeName> cum omnibus suis pertinentibus,<note n="b"><hi rend="italic">pertinenciis</hi> D.</note> et ipsos ambos castros de <hi rend="italic">Redes</hi>, et totos alios castellos qui in iam dicto comitatu sunt vel que ad ipsum comitatum pertinent vel pertinere debent vel pertinuerunt, et totas illorum castellanias, insuper et totas abbatias que in iam dicto comitatu sunt vel que ad ipsum comitatum pertinent vel pertinere debent vel pertinuerunt, cum totos illorum alodios, decimas et primicias et fidelium oblaciones, et omnes illarum pertinencias. Vendimus vobis iam dictum comitatum cum supradictis omnibus castellis vel abbatiis, ecclesiis, villis et totis dominicaturis que pertinent vel pertinere debent vel pertinuerunt ad iam dictum comitatum, et cum totis aliis honoribus et usaticos, et totum eremum vel condirectum, et puios et rocas et<note n="c"><hi rend="italic">et</hi> omès C i D.</note> silvas cum totis pratis et pascuis, tam montuosis similiter et planis, domibus et molendinis et molendinariis, aquis aquarum, mercatis et toloneis<note n="d"><hi rend="italic">teloneis</hi> Marca.</note> et leddas, pascuariis, garricis, albergas, placitos, vieductibus vel reductibus, et omnes alias res que possunt dici vel nominari que pertinent vel pertinere debent ad iam dictum comitatum, et totum ipsum <placeName xml:id="ent6" ref="http://viaf.org/viaf/12345" key="Rasès, vescomtat de" type="vescomtat">vicecomitatum</placeName>, et totas earum pertinencias, et iusticias et omnes alias res que pertinent ad iam dictum comitatum vel ad vicecomitatum qualicumque modo. Affrontat autem predictus comitatus, a parte orientis in <placeName xml:id="ent7" ref="http://viaf.org/viaf/12345" key="Narbona, comtat de" type="comtat">comitatu Narbonensi</placeName>,<note n="e"><hi rend="italic">Narbonensis</hi> C i E.</note> de meridie in <placeName xml:id="ent8" ref="http://viaf.org/viaf/12345" key="Rosselló, comtat de" type="comtat">comitatu Rosselionense</placeName> et <placeName xml:id="ent9" ref="http://viaf.org/viaf/12345" key="Conflent, comtat de" type="comtat">Confluente</placeName> et <placeName xml:id="ent10" ref="http://viaf.org/viaf/12345" key="Cerdanya, comtat de" type="comtat">Ceritanie</placeName>, de occiduo in <placeName xml:id="ent11" ref="http://viaf.org/viaf/12345" key="Tolosa, comtat de" type="comtat">comitatu Tolosanensi</placeName>, de aquilone in <placeName xml:id="ent12" ref="http://viaf.org/viaf/12345" key="Carcassès, comtat de" type="comtat">comitatu Carcassensi</placeName>. Sicut includitur iam dictus comitatus infra has predictas affrontaciones, sic vendimus vobis predictum comitatum et predicta omnia, ut sit vester proprius alodius ad faciendum quodcumque volueritis. Ac cepimus autem a vobis in precium pro predicto comitatu uncias auri mille ad pensum. Predictum comitatum et predicta omnia vendimus vobis et iachimus<note n="f"><hi rend="italic">iactimus</hi> Marca.</note> et deffinimus integriter sine ulla minoratione, et sine ulla reservacione,<note n="g"><hi rend="italic">et sine ulla reservacione</hi> omès C.</note> et sine ulla nostra retentione, ad faciendum hoc totum quod volueritis de predicto comitatu et de omnibus rebus sibi pertinentibus. Quod si nos venditores aut ullus homo vel femina contra hanc nostram venditionem et deffenitionem<note n="h"><hi rend="italic">diffinitionem</hi> D.</note> venerimus vel venerit ad inrumpendum predictum comitatum vel predicta omnia, in duplo<note n="i"><hi rend="italic">duplum</hi> D.</note> vobis aut vestre posteritati componamus vel componat, et insuper hec nostra vendicio vel diffinicio omni tempore firma permaneat.</p><p>Actum est hoc <date when="1111" xml:id="ent13">VI<note n="o"/> nonas marcii, anno ab incarnacione Christi M<note n="k"><hi rend="italic">millesimo</hi> Marca.</note> LXVII, anno VIII regni <persName xml:id="ent14" ref="http://viaf.org/viaf/12345" key="Felip I" role="rei">Philippi regis</persName></date>.</p><p>Sig+num Raimundi Bernardi vicecomitis, sig+num Ermengardis vicecomitisse,<note n="l"><hi rend="italic">comitisse</hi> D.</note> uxor eius, qui hanc vendicionem et diffinicionem fecimus et firmavimus et testes firmare rogavimus.<note n="m">D afegeix <hi rend="italic">et cetera</hi> ometent les signatures dels testimonis.</note></p><p><persName xml:id="ent15" ref="http://viaf.org/viaf/12345" key="Pere, prevere i escrivà" role="escrivà">Petrus presbiter</persName>, qui huius scedulam largicionis rogatus scripsit et subscripsit die et anno prefixo.<note n="n"><hi rend="italic">ab incarnacione Christi... die et anno prefixo</hi> omès C.</note></p></div>
+                    <div><p><note n="a">B avantposa la rúbrica <hi rend="italic">Instrumentum venditionis quam fecit Raimundus Bernardi vicecomes et Ermengardis vicecomitissa Raimundo, comiti Barcinonensi, super comitatu et vicecomitatu Redensi</hi>.</note>In nomine Domini. Ego <persName xml:id="ent1" ref="http://viaf.org/viaf/12345" key="Ramon Bernat Trencavell" role="venedor">Raimundus Bernardi vicecomes</persName> et <persName xml:id="ent2" ref="http://viaf.org/viaf/12345" key="Ermengarda de Carcassona" role="venedora">Ermengardis vicecomitissa</persName>, uxor eius, nos simul in unum, venditores sumus vobis, <persName xml:id="ent3" ref="http://viaf.org/viaf/12345" key="Ramon Berenguer I el Vell" role="comprador">domno Raimundo, Barchinonensi comiti</persName>, et <persName xml:id="ent4" ref="http://viaf.org/viaf/12345" key="Almodis de la Marca" role="compradora">domne Adalmodi comitisse</persName>. Per hanc scripturam nostre vendicionis vendimus vobis totum ipsum <placeName xml:id="ent5" ref="http://viaf.org/viaf/12345" key="Rasès, comtat de" type="comtat">comitatum de <hi rend="italic">Redes</hi></placeName> cum omnibus suis pertinentibus,<note n="b"><hi rend="italic">pertinenciis</hi> D.</note> et ipsos ambos castros de <hi rend="italic">Redes</hi>, et totos alios castellos qui in iam dicto comitatu sunt vel que ad ipsum comitatum pertinent vel pertinere debent vel pertinuerunt, et totas illorum castellanias, insuper et totas abbatias que in iam dicto comitatu sunt vel que ad ipsum comitatum pertinent vel pertinere debent vel pertinuerunt, cum totos illorum alodios, decimas et primicias et fidelium oblaciones, et omnes illarum pertinencias. Vendimus vobis iam dictum comitatum cum supradictis omnibus castellis vel abbatiis, ecclesiis, villis et totis dominicaturis que pertinent vel pertinere debent vel pertinuerunt ad iam dictum comitatum, et cum totis aliis honoribus et usaticos, et totum eremum vel condirectum, et puios et rocas et<note n="c"><hi rend="italic">et</hi> omès C i D.</note> silvas cum totis pratis et pascuis, tam montuosis similiter et planis, domibus et molendinis et molendinariis, aquis aquarum, mercatis et toloneis<note n="d"><hi rend="italic">teloneis</hi> Marca.</note> et leddas, pascuariis, garricis, albergas, placitos, vieductibus vel reductibus, et omnes alias res que possunt dici vel nominari que pertinent vel pertinere debent ad iam dictum comitatum, et totum ipsum <placeName xml:id="ent6" ref="http://viaf.org/viaf/12345" key="Rasès, vescomtat de" type="vescomtat">vicecomitatum</placeName>, et totas earum pertinencias, et iusticias et omnes alias res que pertinent ad iam dictum comitatum vel ad vicecomitatum qualicumque modo. Affrontat autem predictus comitatus, a parte orientis in <placeName xml:id="ent7" ref="http://viaf.org/viaf/12345" key="Narbona, comtat de" type="comtat">comitatu Narbonensi</placeName>,<note n="e"><hi rend="italic">Narbonensis</hi> C i E.</note> de meridie in <placeName xml:id="ent8" ref="http://viaf.org/viaf/12345" key="Rosselló, comtat de" type="comtat">comitatu Rosselionense</placeName> et <placeName xml:id="ent9" ref="http://viaf.org/viaf/12345" key="Conflent, comtat de" type="comtat">Confluente</placeName> et <placeName xml:id="ent10" ref="http://viaf.org/viaf/12345" key="Cerdanya, comtat de" type="comtat">Ceritanie</placeName>, de occiduo in <placeName xml:id="ent11" ref="http://viaf.org/viaf/12345" key="Tolosa, comtat de" type="comtat">comitatu Tolosanensi</placeName>, de aquilone in <placeName xml:id="ent12" ref="http://viaf.org/viaf/12345" key="Carcassès, comtat de" type="comtat">comitatu Carcassensi</placeName>. Sicut includitur iam dictus comitatus infra has predictas affrontaciones, sic vendimus vobis predictum comitatum et predicta omnia, ut sit vester proprius alodius ad faciendum quodcumque volueritis. Ac cepimus autem a vobis in precium pro predicto comitatu uncias auri mille ad pensum. Predictum comitatum et predicta omnia vendimus vobis et iachimus<note n="f"><hi rend="italic">iactimus</hi> Marca.</note> et deffinimus integriter sine ulla minoratione, et sine ulla reservacione,<note n="g"><hi rend="italic">et sine ulla reservacione</hi> omès C.</note> et sine ulla nostra retentione, ad faciendum hoc totum quod volueritis de predicto comitatu et de omnibus rebus sibi pertinentibus. Quod si nos venditores aut ullus homo vel femina contra hanc nostram venditionem et deffenitionem<note n="h"><hi rend="italic">diffinitionem</hi> D.</note> venerimus vel venerit ad inrumpendum predictum comitatum vel predicta omnia, in duplo<note n="i"><hi rend="italic">duplum</hi> D.</note> vobis aut vestre posteritati componamus vel componat, et insuper hec nostra vendicio vel diffinicio omni tempore firma permaneat.</p><p>Actum est hoc <date when="1111" xml:id="ent13">VIº nonas marcii, anno ab incarnacione Christi M<note n="k"><hi rend="italic">millesimo</hi> Marca.</note> LXVII, anno VIII regni <persName xml:id="ent14" ref="http://viaf.org/viaf/12345" key="Felip I" role="rei">Philippi regis</persName></date>.</p><p>Sig+num Raimundi Bernardi vicecomitis, sig+num Ermengardis vicecomitisse,<note n="l"><hi rend="italic">comitisse</hi> D.</note> uxor eius, qui hanc vendicionem et diffinicionem fecimus et firmavimus et testes firmare rogavimus.<note n="m">D afegeix <hi rend="italic">et cetera</hi> ometent les signatures dels testimonis.</note></p><p><persName xml:id="ent15" ref="http://viaf.org/viaf/12345" key="Pere, prevere i escrivà" role="escrivà">Petrus presbiter</persName>, qui huius scedulam largicionis rogatus scripsit et subscripsit die et anno prefixo.<note n="n"><hi rend="italic">ab incarnacione Christi... die et anno prefixo</hi> omès C.</note></p></div>
                 </div>
             </body>
     </text>
